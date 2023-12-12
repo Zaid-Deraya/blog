@@ -1,8 +1,6 @@
-package com.learn.boot.controller;
+package com.learn.blog.controller;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class TutorialControllerTest {
 
